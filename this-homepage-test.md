@@ -13,6 +13,7 @@ page_sections:
   headline: This is headline text line<br>this is second line...
   cta:
     button_text: CTA
+  background_image: "/uploads/2018/06/21/theme.png"
 published: false
 
 ---

@@ -40,6 +40,12 @@ page_sections:
     culpa qui officia deserunt mollit anim id est laborum.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2019/04/22/LOGO.png"
+  col_2: 'This is footer nav #1'
+  col_3: 'This is footer nav #2'
+  col_4: 'This is footer nav #3'
 published: false
 
 ---

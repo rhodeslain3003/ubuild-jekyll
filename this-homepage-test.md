@@ -38,6 +38,8 @@ page_sections:
     in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     Excepteur sint occaecat cupidatat non proident<span class="s1">,</span> sunt in
     culpa qui officia deserunt mollit anim id est laborum.
+  media:
+    image: "/uploads/2018/06/21/blocks-split.png"
 published: false
 
 ---

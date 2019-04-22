@@ -9,6 +9,11 @@ page_sections:
   - link_text: Home
 - template: navigation-header-w-button
   block: header-2
+- template: hero-banner-w-image
+  block: hero-2
+  headline: This is headline text line<br>this is second line...
+  cta:
+    button_text: CTA
 published: false
 
 ---

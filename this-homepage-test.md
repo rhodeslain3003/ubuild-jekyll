@@ -7,6 +7,10 @@ page_sections:
   block: header-1
   navigation:
   - link_text: Home
+  - link_text: AAA
+  - link_text: BBB
+  - link_text: CCC
+  - link_text: DDD
   logo: "/uploads/2019/04/22/LOGO.png"
 - template: hero-banner-w-image
   block: hero-2

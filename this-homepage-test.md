@@ -7,6 +7,7 @@ page_sections:
   block: header-1
   navigation:
   - link_text: Home
+    link: https://rhodeslain3003.github.io/ubuild-jekyll/#
   - link_text: AAA
   - link_text: BBB
   - link_text: CCC

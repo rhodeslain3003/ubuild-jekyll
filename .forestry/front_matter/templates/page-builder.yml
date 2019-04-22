@@ -32,5 +32,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- this-homepage-test.md
 - "./homepage1.md"
 - index.md

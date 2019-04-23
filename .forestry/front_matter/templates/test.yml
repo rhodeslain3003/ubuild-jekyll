@@ -1,6 +1,7 @@
 ---
 label: Test
 hide_body: false
+display_field: color_picker_test
 fields:
 - type: color
   config:

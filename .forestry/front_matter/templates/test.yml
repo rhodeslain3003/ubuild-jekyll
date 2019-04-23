@@ -31,4 +31,5 @@ fields:
   name: block__1
   description: 'This is description of block #1'
 pages:
+- Templete test.md
 - Test.md

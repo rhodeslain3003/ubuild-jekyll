@@ -133,6 +133,5 @@ page_sections:
   col_2: 'This is footer nav #1'
   col_3: 'This is footer nav #2'
   col_4: 'This is footer nav #3'
-published: false
 
 ---

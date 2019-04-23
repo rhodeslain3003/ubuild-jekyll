@@ -1,7 +1,6 @@
 ---
 label: Test
 hide_body: false
-display_field: color_picker_test
 fields:
 - type: color
   config:
@@ -11,3 +10,8 @@ fields:
   name: color_picker_test
   description: Color picker test
   default: "#57DDB0"
+- type: text
+  name: text_field_test
+  label: Text field test
+  description: Text field test
+  default: 'Text field test #1'

@@ -11,9 +11,24 @@ fields:
   description: Color picker test
   default: "#57DDB0"
 - type: text
-  name: text_field_test
-  label: Text field test
-  description: Text field test
+  name: title__1
+  label: 'Title #1'
+  description: 'This is description of title #1'
   default: 'Text field test #1'
+  config:
+    required: true
+- type: textarea
+  name: content__1
+  label: 'Content #1'
+  description: 'This is description of content #1'
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+    required: false
+- type: blocks
+  label: 'Block #1'
+  name: block__1
+  description: 'This is description of block #1'
 pages:
 - Test.md

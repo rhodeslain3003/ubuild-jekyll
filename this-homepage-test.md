@@ -27,6 +27,8 @@ page_sections:
     in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     Excepteur sint occaecat cupidatat non proident<span class="s1">,</span> sunt in
     culpa qui officia deserunt mollit anim id est laborum.
+  image:
+    image: "/uploads/2018/06/21/edit.gif"
 - template: hero-banner-w-image
   block: hero-2
   image:
@@ -52,6 +54,19 @@ page_sections:
     culpa qui officia deserunt mollit anim id est laborum.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/2018/06/21/theme.png"
+  content: Lorem ipsum dolor sit amet<span class="s1">,</span> consectetur adipisicing
+    elit<span class="s1">,</span> sed do eiusmod tempor incididunt ut labore et dolore
+    magna aliqua. Ut enim ad minim veniam<span class="s1">,</span> quis nostrud exercitation
+    ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+    in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    Excepteur sint occaecat cupidatat non proident<span class="s1">,</span> sunt in
+    culpa qui officia deserunt mollit anim id est laborum.
+  headline: This headline text line...
 - template: detail-content
   block: text-1
   content: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

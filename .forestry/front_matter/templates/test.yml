@@ -15,3 +15,5 @@ fields:
   label: Text field test
   description: Text field test
   default: 'Text field test #1'
+pages:
+- Test.md

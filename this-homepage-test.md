@@ -19,7 +19,7 @@ page_sections:
   cta:
     button_text: CTACTA
     enabled: false
-  background_image: "/uploads/2018/06/21/theme.png"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
   content: Lorem ipsum dolor sit amet<span class="s1">,</span> consectetur adipisicing
     elit<span class="s1">,</span> sed do eiusmod tempor incididunt ut labore et dolore
     magna aliqua. Ut enim ad minim veniam<span class="s1">,</span> quis nostrud exercitation
